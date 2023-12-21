@@ -8,3 +8,7 @@ We are following the following course textbook:  *Walpole, Meyers, Meyers, Ye:  
 |----| ----| 
 |  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantiative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. | 
 
+## HW
+
+Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html)
+
