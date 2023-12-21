@@ -1,5 +1,6 @@
 # MathStat474
-Welcome to Math 474 @ IIT by Sonja Petrović
+Welcome to Math 474 @ IIT by Sonja Petrović.
+We are following the following course textbook:  *Walpole, Meyers, Meyers, Ye:  Probability and Statistics for Engineers and Scientists*, 9th edition.
 
 ## Weeks 1 & 2 
 
