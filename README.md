@@ -1,6 +1,6 @@
 # MathStat474
 Welcome to Math 474 @ IIT by Sonja Petrović.
-We are following the following course textbook:  *Walpole, Meyers, Meyers, Ye:  Probability and Statistics for Engineers and Scientists*, 9th edition.
+The section numbres in the tables below refer to the following course textbook:  *Walpole, Meyers, Meyers, Ye:  Probability and Statistics for Engineers and Scientists*, 9th edition.
 
 ## Weeks 1 & 2 
 
@@ -10,5 +10,5 @@ We are following the following course textbook:  *Walpole, Meyers, Meyers, Ye:  
 
 ## HW
 
-Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html)
-
+Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
+Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
