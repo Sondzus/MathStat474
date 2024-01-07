@@ -15,4 +15,4 @@ Want more information? Simple .md templates for PDF documents are available [her
 
 ##  Weekly
 
-![](https://github.com/Sondzus/MathStat474/blob/main/OnePagers-Project%20timeline%20(1).jpg)
+![](https://sondzus.github.io/MathStat474/OnePagers-Project%20timeline%20(1).jpg)
