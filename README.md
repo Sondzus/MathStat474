@@ -12,3 +12,7 @@ The section numbres in the tables below refer to the following course textbook: 
 
 Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
 Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
+
+##  Weekly
+
+![](https://github.com/Sondzus/MathStat474/blob/main/OnePagers-Project%20timeline%20(1).jpg)
