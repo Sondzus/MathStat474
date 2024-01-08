@@ -6,7 +6,7 @@ The section numbres in the tables below refer to the following course textbook: 
 
 | Topics | Reading| 
 |----| ----| 
-|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantiative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. | 
+|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantiative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.| 
 
 ## HW
 
