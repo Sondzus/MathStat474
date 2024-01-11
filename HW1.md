@@ -10,7 +10,7 @@ A note on catching up with the studying: since this is our first homework set, a
 
 ## Problem 1 - Statistics in the Media
 
-This question asks you to find *examples* of statistics in the *media*. You are asked to describe two specific examples, with sources describing at least one variable of interest to the study.  Your examples must come from four different articles or news stories. You may use print media or online media to find the four examples of statistics, but you **must give a reference** for each. Use section headers or titles to separate each of your four descriptions.
+This question asks you to find *examples* of statistics in the *media*. You are asked to describe two specific examples, with sources describing at least one variable of interest to the study.  Your examples must come from two different articles or news stories. You may use print media or online media to find the two examples of statistics, but you **must give a reference** for each. Use section headers or titles to separate each of your two descriptions.
 
 *Write a well-crafted paragraph or two summarizing how the article describes information about a variable. As you write, please  incorporate answers to all the following questions:* 
 
