@@ -6,8 +6,7 @@ The section numbers in the tables below refer to the following course textbook: 
 
 | Topics | Reading| Homework | 
 |----| ----| ---| 
-|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|  [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) is due week 2, day 2 [Wed 1/17]. 
-[Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3, day 2 [Wed 1/24]. |
+|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|  [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) is due week 2, day 2 [Wed 1/17].  <br> [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3, day 2 [Wed 1/24]. |
 
 
 Main concepts / ideas: 
