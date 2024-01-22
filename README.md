@@ -17,6 +17,18 @@ Main concepts / ideas:
 * wk2, day1: holiday [no class].
 * wk2, day2: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). 
 
+## Week 3 
+
+| Topics | Reading| Homework | 
+|----| ----| ---| 
+|  We will continue to discuss the basics of "the big picture": <br> measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. | The remaining sections of Chapter 1 in our textbook. |  Homework 3 will be posted by Wed. |
+
+Main concepts / ideas: 
+
+* wk3, day1: How do you summarize "data spread"? Think about the histograms we saw in week 2. How you do detect an outlier? 
+* wk3, day1: pop-up quiz on boxplots! [low stakes - credit for any answer!]
+* wk3, day2: tbd
+
 ### HW formatting 
 
 
