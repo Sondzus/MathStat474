@@ -9,7 +9,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Weeks 1 & 2** | || 
 |  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|  [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) is due week 2, day 2 [Wed 1/17].  <br> [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3, day 2 [Wed 1/24]. |
 | **Week 3** | || 
-|  Basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. | Sections 1.3, 1.4, and 2.1, 2.2, 2.4. |  [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 1/31]. |
+|  Basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.4. |  [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 1/31]. |
+| **Week 4** | || 
+|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.TBD | Homework 4 will be posted by 1/31. |
 
 
 #### Main concepts / ideas: 
@@ -20,7 +22,8 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk2, day2: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). 
 * wk3, day1: How do you summarize "data spread"? Think about the histograms we saw in week 2. How you do detect an outlier? 
    * Also included: a pop-up 'quiz' on boxplots! [low stakes - participation credit for *any* answer!]
-* wk3, day2: Wrapping up standard deviations as a measure of variability in the data. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. 
+* wk3, day2: Wrapping up standard deviations as a measure of variability in the data. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability & the Law of Large Numbers. 
+* wk4, day1: Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events). 
 
 ### HW formatting 
 
