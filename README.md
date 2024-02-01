@@ -13,7 +13,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 4** | || 
 |  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. |[Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is due week 5, day 2 [Wed 2/7].  |
 | **Week 5** | || 
-| We will discuss counting (2.3!) and then conditional probabilities! | Please read section 2.3 carefully. | Homework 5 will be posted by end of day on 2/7. |
+| During the week, at some point, we will discuss counting (see section 2.3!). <br> Conditional probability and independence; the general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. | Please read section 2.3 carefully, and study the formulas in there, as you will likely need to use them for homework!<br> Sections 2.6 and 2.7. | Homework 5 will be posted by end of day on 2/7. |
+| **Week 6** | || 
+| Random variables: discrete random variables. | | | 
 
 #### Main concepts / ideas: 
 
