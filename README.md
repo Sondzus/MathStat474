@@ -11,8 +11,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 3** | || 
 |  Basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.4. |  [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 1/31]. |
 | **Week 4** | || 
-|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.TBD | Homework 4 will be posted by 1/31. |
-
+|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. |[Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is due week 5, day 2 [Wed 2/7].  |
+| **Week 5** | || 
+| We will discuss counting (2.3!) and then conditional probabilities! | Please read section 2.3 carefully. | Homework 5 will be posted by end of day on 2/7. |
 
 #### Main concepts / ideas: 
 
@@ -24,6 +25,7 @@ The section numbers in the tables below refer to the following course textbook: 
    * Also included: a pop-up 'quiz' on boxplots! [low stakes - participation credit for *any* answer!]
 * wk3, day2: Wrapping up standard deviations as a measure of variability in the data. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability & the Law of Large Numbers. 
 * wk4, day1: Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events). 
+* wk4, day2: finished up multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
 
 ### HW formatting 
 
