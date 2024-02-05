@@ -28,6 +28,8 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk3, day2: Wrapping up standard deviations as a measure of variability in the data. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability & the Law of Large Numbers. 
 * wk4, day1: Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events). 
 * wk4, day2: finished up multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
+* wk5, day1: conditional probability: defintion and computation. Independence events and 4 equivalent ways to testing independence. 
+* wk5, day2: 
 
 ### HW formatting 
 
