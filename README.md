@@ -15,7 +15,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 5** | || 
 | During the week, at some point, we will discuss counting (see section 2.3!). <br> Conditional probability and independence; the general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. | Please read section 2.3 carefully, and study the formulas in there, as you will likely need to use them for homework!<br> Sections 2.6 and 2.7. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Wed 2/14]. |
 | **Week 6** | || 
-| Random variables: discrete random variables. | | | 
+| Random variables: discrete random variables. | |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 2/21].  | 
 
 #### Main concepts / ideas: 
 
