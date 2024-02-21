@@ -13,9 +13,11 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 4** | || 
 |  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. |[Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is due week 5, day 2 [Wed 2/7].  |
 | **Week 5** | || 
-| During the week, at some point, we will discuss counting (see section 2.3!). <br> Conditional probability and independence; the general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. | Please read section 2.3 carefully, and study the formulas in there, as you will likely need to use them for homework!<br> Sections 2.6 and 2.7. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Wed 2/14]. |
+|  Conditional probability and independence; the general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. | Please read section 2.3 carefully, and study the formulas in there, as you will likely need to use them for homework!<br> Sections 2.6 and 2.7. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Wed 2/14]. |
 | **Week 6** | || 
-| Random variables: discrete random variables. | |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 2/21].  | 
+| Random variables: discrete random variables. | Section 3.1, 3.2; 4.1, 4.2, and 4.3. |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 2/21].  | 
+| **Week 7** | || 
+| During the week, at some point, we discuss counting (see section 2.3!). <br> Random variables: Binomial, multinomial, hypergeometric.  | Section 5.2, 3.4, and 5.3. |  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html) is due week 8, day 2 [Wed 2/28].  | 
 
 #### Main concepts / ideas: 
 
@@ -28,8 +30,13 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk3, day2: Wrapping up standard deviations as a measure of variability in the data. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability & the Law of Large Numbers. 
 * wk4, day1: Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events). 
 * wk4, day2: finished up multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
-* wk5, day1: conditional probability: defintion and computation. Independence events and 4 equivalent ways to testing independence. 
+* wk5, day1: conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. 
 * wk5, day2: probability trees, the rule of total probability, and the Bayes rule. 
+* wk6, day1: the concept of random variables, discrete vs. continuous. Probability distribution, rules and how to compute it. Means of random variables: meaning and use. 
+* wk6, day2: Rules for means and variances of random variables. Standard deviation and meaning. Relating back to the law of large numbers and outliers discussion from week 3. 
+* wk7, day1: Binomial random variables: how do they arise? what is the 'binomial experiment'? How to compute the probability distribution of a binomial random variable? mean and variance formula.
+* wk7, day2: Multinomial random variables (generalizing binomial) and the corresponding experiment, example to recognize in application. Hypergeometric distribution and acceptance sampling, with example. 
+* wk8, day1: (Poisson random variables and/or:) intro to continuous random variables. 
 
 ### HW formatting 
 
