@@ -22,9 +22,9 @@ Midterm will take place in class on Wednesday March 6th. [Scheduled make-up midt
 | **Week 7** | || 
 | During the week, at some point, we discuss counting (see section 2.3!). <br> Random variables: Binomial, multinomial, hypergeometric.  | Section 5.2, 3.4, and 5.3. |  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html) is due week 8, day 2 [Wed 2/28].  | 
 | **Week 8** | || 
-| Poisson process and the Poisson random variable. Intro to continuous random variables: normal, standard normal, and applications. >br>Other recommended reading: section 3.4 in the book - this puts into context notions such as 'probability density function'. | Section 6.2, 6.3, 6.4.  |   [Homework 8 - SHORT!](https://sondzus.github.io/MathStat474/HW8.html)   is due week 9, day 1 [**Mon 3/4**].  | 
+| Poisson process and the Poisson random variable. Intro to continuous random variables: normal, standard normal, and applications. <br>Other recommended reading: section 3.4 in the book - this puts into context notions such as 'probability density function'. | Section 6.2, 6.3, 6.4.  |   [Homework 8 - SHORT!](https://sondzus.github.io/MathStat474/HW8.html)   is due week 9, day 1 [**Mon 3/4**].  | 
 | **Week 9** | || 
-| MONDAY: <br> WEDNESDAY: midterm exam!  | Sections tbd.  |  Homework 9 will be due week 10, day 2 [**Wed 3/20**].  | 
+| MONDAY: wrapping up from week 8. <br> WEDNESDAY: midterm exam!  | Sections tbd.  |  Homework 9 will be due week 10, day 2 [**Wed 3/20**].  | 
 | **Spring break** | || 
 | If you have not taken the time to go outside, do it now. See you next week :) :)  | Review confusing concepts, that's it. || 
 | **Week 10** | || 
