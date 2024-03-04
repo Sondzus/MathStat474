@@ -3,7 +3,7 @@ Welcome to Math 474 @ IIT by Sonja Petrović.
 The section numbers in the tables below refer to the following course textbook:  *Walpole, Meyers, Meyers, Ye:  Probability and Statistics for Engineers and Scientists*, 9th edition.
 
 ### Important dates
-Midterm will take place in class on Wednesday March 6th. [Scheduled make-up midterm exams will take place Monday after spring break, in my office RE-208, at 11:25am.] The midterm will be graded within one week, and so you will be able to see your grades by 3/13. But the physical exams may not be returned until 3/20. 
+Midterm will take place in class on Wednesday March 6th. **Midterm exam topics:** everthing up to and not including the intro to continuous random variables!  [Scheduled make-up midterm exams will take place Monday after spring break, in my office RE-208, at 11:25am.] The midterm will be graded within one week, and so you will be able to see your grades by 3/13. But the physical exams may not be returned until 3/20. 
 
 ## Weekly schedule 
 
