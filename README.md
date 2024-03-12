@@ -24,11 +24,11 @@ Midterm will take place in class on Wednesday March 6th. **Midterm exam topics:*
 | **Week 8** | || 
 | Poisson process and the Poisson random variable. Intro to continuous random variables: normal, standard normal, and applications. <br>Other recommended reading: section 3.4 in the book - this puts into context notions such as 'probability density function'. | Section 6.2, 6.3, 6.4.  |   [Homework 8 - SHORT!](https://sondzus.github.io/MathStat474/HW8.html)   is due week 9, day 1 [**Mon 3/4**].  | 
 | **Week 9** | || 
-| MONDAY: wrapping up from week 8. <br> WEDNESDAY: midterm exam!  | Sections tbd.  |  Homework 9 will be due week 10, day 2 [**Wed 3/20**].  | 
+| MONDAY: wrapping up from week 8. <br> WEDNESDAY: midterm exam!  | Sections tbd.  |  Homework 9 will be due week 10, day 2 [**Wed 3/20**]. *moved*  | 
 | **Spring break** | || 
 | If you have not taken the time to go outside, do it now. See you next week :) :)  | Review confusing concepts, that's it. || 
 | **Week 10** | || 
-| Cool stuff: starting statistical inference soon! :)  | tbd | tbd.   | 
+| Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :)  | 6.1, 6.5; revisit 4.1, 4.2. |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].   | 
 
 
 #### Main concepts / ideas: 
