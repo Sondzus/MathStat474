@@ -31,7 +31,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Spring break** | || 
 | If you have not taken the time to go outside, do it now. See you next week :) :)  | Review confusing concepts, that's it. || 
 | **Week 10** | || 
-| Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :)  | 6.1, 6.5; revisit 4.1, 4.2. |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].   | 
+| Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :)  | 6.1, 6.5; revisit 4.1, 4.2. [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].   | 
 
 
 #### Main concepts / ideas: 
