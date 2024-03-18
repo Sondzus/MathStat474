@@ -31,7 +31,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Spring break** | || 
 | If you have not taken the time to go outside, do it now. See you next week :) :)  | Review confusing concepts, that's it. || 
 | **Week 10** | || 
-| Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :)  | 6.1, 6.5; revisit 4.1, 4.2. [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].   | 
+| Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :) <br> Introduction to inference & random sampling.  | 6.1, 6.5; revisit 4.1, 4.2. [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].  <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf)  | 
+| **Week 11** | || 
+| Sampling, statistics, and sampling distributions. Properties of sample mean and proportion.  | 8.1, 8.2, 8.3, 8.4. |  Homework 10.  | 
 
 
 #### Main concepts / ideas: 
@@ -55,7 +57,8 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk8, day2: But what is the *integrand* above? Normal density formula. Standard normal: why? ("how many stdevs away from the mean?") Applications and examples using the normal calculations and standard normal $z$-scores. 
 * wk9, day1: wrap up any remaining examples from above. 
 * wk9, day2: midterm exam.
-* wk10, day1: after spring break we continue with applications of the normal distribution: approximation and binomial. Large-sample theorems. Statistical inference, here we come! :) 
+* wk10, day1: after spring break we continue with applications of the normal distribution: approximation and binomial. Our first real large-sample theorems. Statistical inference, here we come! :)  Also we will introduce the uniform distribution which we skipped before the break. 
+* wk10, day2: wrapping up probability and intro to statistical inference. Returning the midterm exam (graded) for those students who did not pick it up on Monday from my office. 
 
 
 ### HW formatting 
