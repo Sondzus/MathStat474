@@ -34,6 +34,8 @@ The section numbers in the tables below refer to the following course textbook: 
 | Applications of normal distribution; the uniform distribution; review of mean and variance of random variables/ <br> Cool stuff: starting statistical inference soon! :) <br> Introduction to inference & random sampling.  | 6.1, 6.5; revisit 4.1, 4.2. [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 3/27].  <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf)  | 
 | **Week 11** | || 
 | Sampling, statistics, and sampling distributions. Properties of sample mean and proportion.  | 8.1, 8.2, 8.3, 8.4. Free reading: section 8.5. |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 12, day 2 [Wed 4/3]. | 
+| **Week 12** | || 
+| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 4/10]. | 
 
 
 #### Main concepts / ideas: 
@@ -61,6 +63,9 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk10, day2: wrapping up probability and intro to statistical inference. Returning the midterm exam (graded) for those students who did not pick it up on Monday from my office. 
 * wk11, day1: sampling distribution of the sample mean. The Central Limit Theorem. Application / example. 
 * wk11, day2: summary of probability (all we have learned!); intro to inference. Three types of statistical inference. Point estimation and unbiased estimators. 
+* wk11, day1: Confidence intervals for population mean. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! 
+* wk11, day2: confidence interval for population proportion. what's that estimator in the center of the confidence interval? -- brief overview of MLE! 
+
 
 ### HW formatting 
 
