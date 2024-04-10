@@ -36,6 +36,8 @@ The section numbers in the tables below refer to the following course textbook: 
 | Sampling, statistics, and sampling distributions. Properties of sample mean and proportion.  | 8.1, 8.2, 8.3, 8.4. Free reading: section 8.5. |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 12, day 2 [Wed 4/3]. | 
 | **Week 12** | || 
 | Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 4/10]. | 
+| **Week 13** | || 
+| Hypothesis tests: overview and the z-test for population proportion.  |  |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 4/17]. | 
 
 
 #### Main concepts / ideas: 
