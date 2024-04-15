@@ -37,7 +37,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 12** | || 
 | Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 4/10]. | 
 | **Week 13** | || 
-| Hypothesis tests: overview and the z-test for population proportion.  |  |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 4/17]. | 
+| Hypothesis tests: overview and the z-test for population proportion.  | 10.1, part of 10.2 (ignore the "testing errors" part for this week!!), and 10.3. |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 4/17]. | 
+| **Week 14** | || 
+| Hypothesis tests: The z-test and t-test for population mean.  | 10.4. Rest of 10.2 once we go into testing errors! |  [Homework 13] tbd. |
 
 
 #### Main concepts / ideas: 
