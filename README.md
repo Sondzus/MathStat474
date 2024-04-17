@@ -39,7 +39,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 13** | || 
 | Hypothesis tests: overview and the z-test for population proportion.  | 10.1, part of 10.2 (ignore the "testing errors" part for this week!!), and 10.3. |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 4/17]. | 
 | **Week 14** | || 
-| Hypothesis tests: The z-test and t-test for population mean.  | 10.4. Rest of 10.2 once we go into testing errors! |  [Homework 13] tbd. |
+| Hypothesis tests: The z-test and t-test for population mean.  | 10.4. |  [Homework 13](https://sondzus.github.io/MathStat474/HW13.html) is due week 15, day 1 [Monday! But  Wednesday will *not* be considered late.]. |
+| **Week 15** | ||
+| Testing errors etc. |  Rest of 10.2. | No more hw! |
 
 
 #### Main concepts / ideas: 
