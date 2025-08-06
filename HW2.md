@@ -1,11 +1,11 @@
 # MathStat474 - HW 2 
 
-> Posted: Wed Jan 17. **Due: Wed Jan 24.** 
+> Posted: Mon Aug 18. **Due: Wed Sep 3.** 
 
 
 ## Problem 1
 
- Solve exercise 1.2 in the textbook
+Solve exercise 1.2 in the textbook
 
 ## Problem 2.
 

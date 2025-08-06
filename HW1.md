@@ -1,10 +1,10 @@
 # MathStat474 - HW 1 
 
-> Posted: Wed Jan 10. **Due: Wed Jan 17.** 
+> Posted: Mon Aug 18. **Due: Wed 8/28.** 
 
 #### Before we begin... 
 
-A note on catching up with the studying: since this is our first homework set, and we are just getting started, there are only two tasks for you to do (both are listed under "problem 1"). It is my hope you can use this to really think about the following concepts: research questions, population, sample, data, data collection mechanisms, types of data, and begin to think about how data are usually summarized graphically.  Generally, this semester, you can expect homework due on week N to relate to the material covered in week N-1 -- that is, I am not likely to teach a brand new concept on a Monday and ask you to submit homework on it on Wednesday. But, it is true that sometimes we will be *finishing* up last week's discussion on Monday and yes, that topic can be on the homeowork that Wednesday. 
+A note on catching up with the studying: since this is our first homework set, and we are just getting started, there are only two tasks for you to do (both are listed under "problem 1"). It is my hope you can use this to really think about the following concepts: research questions, population, sample, data, data collection mechanisms, types of data, and begin to think about how data are usually summarized graphically.  Generally, this semester, you can expect homework due on week N to relate to the material covered in week N-1 -- that is, I am not likely to teach a brand new concept on a Monday and ask you to submit homework on it on Wednesday. But, it is true that sometimes we will be *finishing* up last week's discussion on Monday and yes, that topic can be on the homework that Wednesday. 
 
 ----
 
