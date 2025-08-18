@@ -22,10 +22,10 @@ The section numbers in the tables below refer to the following course textbook: 
 
 * wk1, day1: Research questions, population, sample, sample space with notation, data, data collection mechanisms, types of data. Where does randomness come from (I am not random!)? How data are generated. 
 * wk1, day2: "*the big picture*" relating probability to inference; examples of studies and conclusions. Why is it important to quantify the uncertainty (e.g., "with 95% confidence we conclude that 65% of the US adult population favors X...") Sent (on Slack)  a data set to try to see a pie chart or a bar chart. Begin to think about how data are usually summarized graphically: visualization of a categorical variable. 
-* wk2, day1: holiday [no class].
-* wk2, day2: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). 
-
-
+* wk2, day1: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). 
+* wk2, day2: How do you summarize "data spread"? Think about the histograms we saw in week 2. How you do detect an outlier? 
+   * Also included: a pop-up 'quiz' on boxplots! [low stakes - participation credit for *any* answer!]
+* wk3, day1: Labor Day holiday [no class].
 
 ### HW formatting 
 
