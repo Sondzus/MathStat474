@@ -1,6 +1,6 @@
 # MathStat474 - HW 3
 
-> Posted: Wed Jan 24. **Due: Wed Jan 31.** 
+> Posted: Thu Aug 28. **Due: Wed Sep 10.** 
 
 
 ### Problem 1

@@ -39,7 +39,7 @@ convicted.
 Let A be the event "jury convicts"
 Let B be the event "judge convicts".
 
-Complete the two-way probability table of the same format as in the previus problem! 
+Complete the two-way probability table of the same format as in the previous problem! 
 
 
 <!-- 
