@@ -18,7 +18,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 2** | || 
 |  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.3, 2.4. |  [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3  [Wed 9/3]. |
 | **Week 3** | || 
-|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. |[Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 9/10].  |
+|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. Due to Labor Day week, we have an additional [reading assignment](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html). Completing it counts for participation credit! |[Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 9/10].  |
 
 
 
