@@ -5,7 +5,7 @@ output:
 ---
 # MathStat474 - HW 4
 
-> Posted: Wed Jan 31. **Due: Wed Feb 7.** 
+> Posted: Wed Sep 10. **Due: Wed Sep 17.** 
 
 Notation: Please notice that our textbook uses the notation $A'$ for the complement of the event $A$. So when it writes $P(A')$, they mean $P(\mbox{not }A)$.
 
@@ -59,10 +59,18 @@ B & not B & Total &       &  \\ \hline
 
  Solve exercise **2.58** in the textbook. (Compute some probabilities when rolling a pair of dice.) 
 
+A pair of fair dice is tossed. Find the probability of getting: 
+
+(a) a total of 8;
+(b) at most a total of 5.
 
 ### Problem 4. 
 
 Solve exercise **2.72** in the textbook. (Prove a certain equality of probabilities!) 
+
+Prove that
+
+$$ P(A'\cap B′)=1+P(A\cap B)-P(A)-P(B). $$
 
 ---
 
@@ -70,7 +78,8 @@ Solve exercise **2.72** in the textbook. (Prove a certain equality of probabilit
 
 ### Typing up work 
 
-If you *want* to type up your homework, please don't use Microsoft Word or the like. You can get great formatted documents in Markdown! Check out the links below. 
+If you *want* to type up your homework, I suggest you don't use Microsoft Word or the like. You can get great formatted documents in Markdown! Check out the links below. 
+But whatever you use, please make sure your submission is either a PDF document, a photo of the document, or a nicely formatted text document. 
 
 Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
 Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 

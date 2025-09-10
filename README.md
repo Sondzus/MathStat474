@@ -18,8 +18,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 2** | || 
 |  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.3, 2.4. |  [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3  [Wed 9/3]. |
 | **Week 3** | || 
-|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. Due to Labor Day week, we have an additional [reading assignment](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html). Completing it counts for participation credit! |[Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 9/10].  |
-
+|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Sections 2.4, 2.5. Read through 2.3 as extra. Due to Labor Day week, we have an additional [reading assignment](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html). Completing it counts for participation credit! |[Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 9/10 at 11:30pm].  |
+| **Week 4** | || 
+|  Conditional probability and independence; the general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. | Please read section 2.3 carefully, and study the formulas in there, as you will likely need to use them for homework!<br> Sections 2.6 and 2.7. | [Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is due week 5, day 2 [Wed 9/17 at 11:30pm]. |
 
 
 #### Main concepts / ideas: 
@@ -29,7 +30,10 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk2, day1: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). How do you summarize "data spread"? Think about the histograms we saw in week 2. How you do detect an outlier? 
 * wk2, day2:  Wrapping up standard deviations as a measure of variability in the data. Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability - quick overview.
 * wk3, day1: Labor Day holiday [no class].
-* plan for week 3:  Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events).  Finish  multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
+* wk3, day1&2: Beginning of theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events).  Finish  multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
+* wk4, day1: finished up multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
+* wk4, day2: Finish second example of probability table. (relevant for HW!) 
+Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. 
 
 
 ### HW formatting 
