@@ -5,7 +5,7 @@ output:
 ---
 # MathStat474 - HW 6
 
-> Posted by Wed Feb 14. **Due: Wed Feb 21.** 
+> Posted by Wed Sep 10. **Due: Wed Oct 1.** 
 
 
 
@@ -26,11 +26,26 @@ Using the information from the previous two questions, what is the expected gain
 
 ### Problem 2. 
 
-Solve exercise **2.106** in the textbook. 
+Solve exercise **2.106** in the textbook: 
+
+The probabilities that a service station will pump gas into 0, 1, 2, 3, 4, or 5 or more cars during a certain 
+30-minute period are 0.03, 0.18, 0.24, 0.28, 0.10, and 0.17, respectively. 
+
+Find the probability that in this 30-minute period: 
+
+(a) more than 2 cars receive gas; 
+(b) at most 4 cars receive gas; 
+(c) 4 or more cars receive gas.
 
 ### Problem 3. 
 
-Solve exercise **2.108** in the textbook. 
+Solve exercise **2.108** in the textbook: 
+
+If the probability is 0.1 that a person will make a mistake on his or her state income tax return, find the probability that
+
+(a) four totally unrelated persons each make a mistake;
+(b) Mr. Jones and Ms. Clark both make mistakes, and Mr. Roberts and Ms. Williams do not make a mistake.
+
 
 ### Problem 4. 
 
@@ -61,10 +76,11 @@ Set up an equation with N as unknown, and solve for N.
 
 ---
 
+
 ### Typing up work 
 
-If you *want* to type up your homework, please don't use Microsoft Word or the like. You can get great formatted documents in Markdown! Check out the links below. 
+If you *want* to type up your homework, I suggest you don't use Microsoft Word or the like. You can get great formatted documents in Markdown! Check out the links below. 
+But whatever you use, please make sure your submission is either a PDF document, a photo of the document, or a nicely formatted text document. 
 
 Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
 Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
-

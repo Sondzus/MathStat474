@@ -72,6 +72,14 @@ Prove that
 
 $$ P(A'\cap B′)=1+P(A\cap B)-P(A)-P(B). $$
 
+
+### Problem 5.
+
+Solve exercise **2.74** in the textbook: 
+
+A class in advanced physics is composed of 10 juniors, 30 seniors, and 10 graduate students. The final grades show that 3 of the juniors, 10 of the seniors, and 5 of the graduate students received an A for the course. If a student is chosen at random from this class and is found to have earned an A, what is the probability that he or she is a senior?
+
+
 ---
 
 ---
