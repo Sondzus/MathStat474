@@ -24,8 +24,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 5** | || 
 |  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. <br> Introduction to Randoom variables (time permitting). | Sections 2.6 and 2.7. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Wed 9/24]. |
 | **Week 6** | || 
-| Random variables: discrete random variables. | Section 3.1, 3.2; 4.1, 4.2, and 4.3. Additional examples for reading [here](https://sondzus.github.io/MathStat474/LectureNotes6-Comparing-Distributions-Discrete-ExampleHANDOUT.html). |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 10/1].  | 
-
+| Random variables: discrete random variables.  During the week, at some point, we will return to counting (see section 2.3!). <br> Important discrete random variables: Binomial, multinomial, hypergeometric. <br> Please note, we are covering *discrete* parts of chapters 3&4 before doing continuous. The HW reflects this. | Section 3.1, 3.2; (the discrete parts of the following): 4.1, 4.2, and 4.3. Additional examples for reading [here](https://sondzus.github.io/MathStat474/LectureNotes6-Comparing-Distributions-Discrete-ExampleHANDOUT.html). |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 10/1].  | 
+| **Week 7** | || 
+| Wrapping up the Poisson process and the Poisson random variable. Intro to continuous random variables: normal, standard normal, and applications. <br>Other recommended reading: section 3.4 in the book - this puts into context notions such as 'probability density function'. | Sections...  | HW..... | 
 
 #### Main concepts / ideas: 
 
@@ -41,7 +42,8 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk5, day1: discussed more on computation of conditional probabilities and started talking about the Bayes rule. 
 * wk5, day2: derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). Started introduction to discrete random variables and their mean. 
 * wk6, day1: meaning and formula of mean, same for variance/standard deviation. Comparing two distributions. Linear transformations of random variables. Definitions of PMF and CDF for a discrete random variable.
-* wk6, day2: we will continue with discrete r.v. and one particular example! 
+* wk6, day2: we will continue with discrete r.v. and two particular examples! 
+
 
 ### HW formatting 
 
