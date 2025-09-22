@@ -24,7 +24,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 5** | || 
 |  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule. <br> Introduction to Randoom variables (time permitting). | Sections 2.6 and 2.7. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Wed 9/24]. |
 | **Week 6** | || 
-| Random variables: discrete random variables. | Section 3.1, 3.2; 4.1, 4.2, and 4.3. |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 10/1].  | 
+| Random variables: discrete random variables. | Section 3.1, 3.2; 4.1, 4.2, and 4.3. Additional examples for reading [here](https://sondzus.github.io/MathStat474/LectureNotes6-Comparing-Distributions-Discrete-ExampleHANDOUT.html). |  [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Wed 10/1].  | 
 
 
 #### Main concepts / ideas: 
