@@ -38,7 +38,10 @@ The section numbers in the tables below refer to the following course textbook: 
 * wk4, day1: finished up multiplication rule, discussed independent events, and talked about using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. 
 * wk4, day2: Finish second example of probability table. (relevant for HW!) 
 Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. 
-
+* wk5, day1: discussed more on computation of conditional probabilities and started talking about the Bayes rule. 
+* wk5, day2: derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). Started introduction to discrete random variables and their mean. 
+* wk6, day1: meaning and formula of mean, same for variance/standard deviation. Comparing two distributions. Linear transformations of random variables. Definitions of PMF and CDF for a discrete random variable.
+* wk6, day2: we will continue with discrete r.v. and one particular example! 
 
 ### HW formatting 
 
