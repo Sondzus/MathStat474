@@ -28,13 +28,13 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 7** | || 
 | Poisson process and the Poisson random variable. Intro to continuous random variables: normal, standard normal, and applications. The concept of mathematical expectations, which is tied to functions of random variables.   | Section 5.5. <br> Also Section 3.3.(That is, wrapping up sections in chapters 3&4 that we didn't cover for continuous distributions yet.)     | NOTE: I did not assign homework due on the day of the midterm! <br>  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 9, day 2 [Wed 10/15].  | 
 | **Week 8** | || 
-|   WEDNESDAY: midterm exam! <br> Applications of normal distribution; the uniform distribution; review of mean and variance of random variables | Section 6.2, 6.3, 6.4, 6.5.  |   [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 9, day 2 [Wed 10/15].  | 
+|   WEDNESDAY: midterm exam! <br> Applications of normal distribution; the uniform distribution; review of mean and variance of random variables | Section 6.2, 6.3, 6.4, 6.5; revisit 4.1, 4.2.  |   [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 9, day 2 [Wed 10/15].  | 
 | **Week 9** | || 
 |  Remaining fundamental concepts on random variables: joint distributions, marginals, conditionals, and mathematical independence. Multinomial and hypergeometric distributions. Note: MONDAY is the **fall break day**.  | Sections 3.4, 5.2, 5.3.  |  [Homework 8](https://sondzus.github.io/MathStat474/HW8.html) due week 10, day 2 [**Wed 10/22**]. <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf)  | 
 | **Fall break day assignment** | || 
 | | If you have not taken the time to go outside, do it now. See you on Wednesday :) :)     || 
 | **Week 10** | || 
-|  Cool stuff: starting statistical inference! Introduction to inference & random sampling.  | 6.1, 6.5; revisit 4.1, 4.2.  | Homework 10 tbd. | 
+|  Cool stuff: starting statistical inference! Introduction to inference & random sampling.  | Section 8.1, 8.2, and 8.3.  | [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 10/29].  <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) | 
 
 
 #### Main concepts / ideas: 
@@ -60,6 +60,8 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk8, day1: Wrapping up the normal distribution, standard normal values and computation, normal approximation to the binomial. Uniform distribution. 
 * wk8, day1: midterm exam. TOPICS: everything up to but not including the continuous distributions! 
 * wk9, day1: fall break day. 
+* wk9, day2: Wrapping up the main concepts behind random variables that we didn't cover yet: joint distributions, marginals, conditionals, and mathematical independence. Also, two more special r.v.s: multinomial and hypergeometric distributions. 
+* wk10, day1: Regarding random samples in section 8.1: note that we already covered  ideas behind these concepts during the first few weeks. 
 
 
 ### HW formatting 

@@ -3,20 +3,20 @@ output:
   html_document: default
   pdf_document: default
 ---
-# MathStat474 - HW 10
+# MathStat474 - HW 9
 
-> Posted by Mar 27. **Due: WED April 3.** 
+> Posted by Oct 22. **Due: WED Oct 29.** 
 
 
 ### Problem 1. 
 
-This problem is about sampling distributino of the sample proportion.
+This problem is about sampling distribution of the sample proportion.
 
 The proportion of left-handed people in the general population is about 0.10. To simulate this population, we construction a collection in which $p=0.10$. We then conducted four simulations, drawing random samples of different sizes from this collection. 
 
 Below are the resulting sampling distributions and corresponding summary tables: 
 
-![](hw10problem1data.png){ width=50% }
+![](hw9problem1data.png){ width=50% }
 
 Explain how these simulations illustrate the theory we learned about the behaviour of sample proportions. Make sure you address:
 
@@ -52,7 +52,10 @@ b. What is the probability that the mean annual salary of a random sample of 64 
 While answering this question, clearly state the mean and standard deviation of the sampling distribution of the sample means, and the z-score for the problem. 
 
 ### Problem 5.
-Solve exercies 8.18 and 8.19.a) from the textbook.
+Solve exercises 8.18 and 8.19.a) from the textbook:
+
+* If the standard deviation of the mean for the sampling distribution of random samples of size 36 from a large or infinite population is 2, how large must the sample size become if the standard deviation is to be reduced to 1.2?
+* A certain type of thread is manufactured with a mean tensile strength of 78.3 kilograms and a standard deviation of 5.6 kilograms. How is the variance of the sample mean changed when the sample size is increased from 64 to 196?
 
 ### Problem 6 - EXTRA CREDIT 
 **up to 10 points for a complete proof, no credit for partial answer**
