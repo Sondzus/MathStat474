@@ -5,7 +5,7 @@ output:
 ---
 # MathStat474 - HW 8
 
-> Posted on Mon Oct 6. **Due: WED Oct 22.** 
+> Posted on Mon Oct 6.  **Due: WED Oct 22.** 
 
 
 ### Problem 1. 
@@ -46,7 +46,7 @@ variable X having a continuous uniform distribution with A = 7 and B = 10. Find 
 
 Solve exercise **6.11.**
 
-A soft-drink machine is regulated so that it dis- charges an average of 200 milliliters per cup. If the amount of drink is normally distributed with a stan- dard deviation equal to 15 milliliters,
+A soft-drink machine is regulated so that it discharges an average of 200 milliliters per cup. If the amount of drink is normally distributed with a stan- dard deviation equal to 15 milliliters,
 
 (a) what fraction of the cups will contain more than 224 milliliters?
 (b) what is the probability that a cup contains between 191 and 209 milliliters?

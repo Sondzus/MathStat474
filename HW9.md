@@ -5,10 +5,19 @@ output:
 ---
 # MathStat474 - HW 9
 
-> Posted by Oct 22. **Due: WED Oct 29.** 
+> Posted on Wed 15 Oct. **Due: WED Oct 29.** 
 
 
 ### Problem 1. 
+
+Let $X$ denote the number of times a certain numerical control machine will malfunction: 1, 2, or 3 times on any given day. Let $Y$ denote the number of times a technician is called on an emergency call. Their joint probability distribution is given as:
+
+(a) Evaluate the marginal distribution of X.
+(b) Find $P(Y =3|X=2)$.
+(c) Determine if $X$ and $Y$ are independent. 
+
+
+### Problem 2. 
 
 This problem is about sampling distribution of the sample proportion.
 
@@ -24,7 +33,7 @@ Explain how these simulations illustrate the theory we learned about the behavio
 * skewness and behavior as sample size increases
 * center and spread of the sampling distributions. 
 
-### Problem 2. 
+### Problem 3. 
 
 This problem is for practicing to recognize the three types of statistical inference: point estimation, interval estimation, and hypothesis testing. 
 
@@ -34,7 +43,7 @@ b. A blurb on a box of brand X lightbulbs claimed that the mean lifetime of each
 
 c. Based on data collected from a random sample of 1,200 college freshmen, researchers are 95% confident that the mean number of sleep hours of all college freshmen is between 6 hours and 7.5 hours. Which form of statistical inference should you use to evaluate this conclusion? 
 
-### Problem 3. 
+### Problem 4. 
 
 Scores on the math portion of the SAT (SAT-M) in a recent year have followed a normal distribution with mean $\mu$ = 507 and standard deviation $\sigma$ = 111.
 
@@ -42,7 +51,7 @@ What is the probability that the mean SAT-M score of a random sample of 4 studen
 Explain why you can solve this problem, even though the sample size (n = 4) is very low.
 
 
-### Problem 4.
+### Problem 5.
 The annual salary of teachers in a certain state X has a mean of  $54,000$ and standard deviation of $\sigma=5,000$. 
 
 a. What is the probability that the mean annual salary of a random sample of 5 teachers from this state is more than $60,000? Find this probability or explain why you cannot.
@@ -51,13 +60,13 @@ b. What is the probability that the mean annual salary of a random sample of 64 
 
 While answering this question, clearly state the mean and standard deviation of the sampling distribution of the sample means, and the z-score for the problem. 
 
-### Problem 5.
+### Problem 6.
 Solve exercises 8.18 and 8.19.a) from the textbook:
 
 * If the standard deviation of the mean for the sampling distribution of random samples of size 36 from a large or infinite population is 2, how large must the sample size become if the standard deviation is to be reduced to 1.2?
 * A certain type of thread is manufactured with a mean tensile strength of 78.3 kilograms and a standard deviation of 5.6 kilograms. How is the variance of the sample mean changed when the sample size is increased from 64 to 196?
 
-### Problem 6 - EXTRA CREDIT 
+### Problem 7 - EXTRA CREDIT 
 **up to 10 points for a complete proof, no credit for partial answer**
 
 Derive the sampling distribution of the difference of sample proportions for two samples.  
