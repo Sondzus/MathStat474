@@ -7,7 +7,7 @@ The section numbers in the tables below refer to the following course textbook: 
 * **Midterm** will take place in class on *date tbd*. 
 **Midterm exam topics:** everything up to and not including the intro to continuous random variables!  The midterm will be graded within one week, and so you will be able to see your grades by x/xx. But the physical exams may not be returned until x/xx. 
 
-* **Final exam** will take place on *date and location tbd*. The exam will be comprehensive, with 2/3 of the topics from after the midterm, and 1/3 before the midterm! 
+* **Final exam** will take place on *Thursday, December 11, 2-4pm* at our regular classroom HH005. The exam will be comprehensive, with 2/3 of the topics from after the midterm, and 1/3 before the midterm! 
 
 ## Weekly schedule 
 
