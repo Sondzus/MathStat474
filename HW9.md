@@ -12,6 +12,9 @@ output:
 
 Let $X$ denote the number of times a certain numerical control machine will malfunction: 1, 2, or 3 times on any given day. Let $Y$ denote the number of times a technician is called on an emergency call. Their joint probability distribution is given as:
 
+![](hw9problem1JtDistrib.png){ width=50% }
+
+
 (a) Evaluate the marginal distribution of X.
 (b) Find $P(Y =3|X=2)$.
 (c) Determine if $X$ and $Y$ are independent. 
