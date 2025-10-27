@@ -34,7 +34,10 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Fall break day assignment** | || 
 | | If you have not taken the time to go outside, do it now. See you on Wednesday :) :)     || 
 | **Week 10** | || 
-|  Finishing last lecture: statistical mathematical independence. Multinomial and hypergeometric distributions. <br> Cool stuff: starting statistical inference! Introduction to inference & random sampling.  | Section 8.1, 8.2, and 8.3.  | [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 10/29].  <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) | 
+|  Finishing last lecture: statistical mathematical independence. Multinomial and hypergeometric distributions. <br> Cool stuff: starting statistical inference! Introduction to inference & random sampling. Sampling, statistics, and sampling distributions.  | Section 8.1, 8.2, 8.3, 8.4. Free reading: section 8.5. | [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 11, day 2 [Wed 10/29].  <br> [Z table for your use](https://sondzus.github.io/MathStat474/Ztable.pdf) |
+| **Week 11** | || 
+| Sampling, statistics, and sampling distributions applied to statistical inference: sample mean, sample proportion, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion.  | 9.1, 9.2, 9.3, 9.4.  |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 12, day 2 [Wed 11/5]. | 
+
 
 
 #### Main concepts / ideas: 
@@ -62,6 +65,8 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk9, day1: fall break day. 
 * wk9, day2: Wrapping up the main concepts behind random variables that we didn't cover yet: joint distributions, marginals, conditionals. We did one continuous and one discrete example, all from the book. read the rest of this secton! 
 * wk10, day1:  mathematical independence. Also, two more special r.v.s: multinomial and hypergeometric distributions.  Then, onto stats... Regarding random samples in section 8.1: note that we already covered  ideas behind these concepts during the first few weeks. 
+* wk11, day1: Recall that the sampling distribution of the sample mean is given by the Central Limit Theorem. Application / example. Summary of probability (what have we learned) and intro to inference. Three types of statistical inference. Point estimation and unbiased estimators. What does it mean to estimate a parameter for a population? Connecting the dots: estimators, statistics, parameters, means, and variances. 
+* wk11, day2: Wrapping up last lecture's discussion with more examples. Intro to interval estimation. 
 
 
 ### HW formatting 
