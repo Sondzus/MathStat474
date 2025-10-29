@@ -66,7 +66,7 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk9, day2: Wrapping up the main concepts behind random variables that we didn't cover yet: joint distributions, marginals, conditionals. We did one continuous and one discrete example, all from the book. read the rest of this secton! 
 * wk10, day1:  mathematical independence. Also, two more special r.v.s: multinomial and hypergeometric distributions.  Then, onto stats... Regarding random samples in section 8.1: note that we already covered  ideas behind these concepts during the first few weeks. 
 * wk11, day1: Recall that the sampling distribution of the sample mean is given by the Central Limit Theorem. Application / example. Summary of probability (what have we learned) and intro to inference. Three types of statistical inference. Point estimation and unbiased estimators. What does it mean to estimate a parameter for a population? Connecting the dots: estimators, statistics, parameters, means, and variances. 
-* wk11, day2: Wrapping up last lecture's discussion with more examples. Intro to interval estimation. 
+* wk11, day2: Wrapping up last lecture's discussion with more examples. Intro to interval estimation. Confidence intervals for population mean. 
 
 
 ### HW formatting 
