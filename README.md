@@ -38,7 +38,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 11** | || 
 | Sampling, statistics, and sampling distributions applied to statistical inference: sample mean, sample proportion, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion.  | 9.1, 9.2, 9.3, 9.4.  |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 12, day 2 [Wed 11/5]. | 
 | **Week 12** | || 
-| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12. (and 9.14 for overview.) |  HOMEWORK POSTED BY WED. | 
+| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12, 9.8. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 11/12]. | 
 
 
 
@@ -70,6 +70,7 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk11, day1: Recall that the sampling distribution of the sample mean is given by the Central Limit Theorem. Application / example. Summary of probability (what have we learned) and intro to inference. Three types of statistical inference. Point estimation and unbiased estimators. What does it mean to estimate a parameter for a population? Connecting the dots: estimators, statistics, parameters, means, and variances. 
 * wk11, day2: Wrapping up last lecture's discussion with more examples. Intro to interval estimation. Confidence intervals for population mean. 
 * wk12, day1: "Guessing" confidence intervals for proportions. Why is sample size typically around 1100 in popular media polls? (The minimum sample size necessary to achieve a 3% margin of error for population proportion confidence intervals!) 
+* wk12, day2: One-sided confidence bounds for population mean. Two samples: estimating the difference between two means. (Confidence intervals, still.)
 
 ### HW formatting 
 
