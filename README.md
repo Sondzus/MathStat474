@@ -39,6 +39,12 @@ The section numbers in the tables below refer to the following course textbook: 
 | Sampling, statistics, and sampling distributions applied to statistical inference: sample mean, sample proportion, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion.  | 9.1, 9.2, 9.3, 9.4.  |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 12, day 2 [Wed 11/5]. | 
 | **Week 12** | || 
 | Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12, 9.8. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 11/12]. | 
+| **Week 13** | || 
+| tbd | tbd |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 11/19]. | 
+| **Week 14** | || 
+| tbd  | tbd |  [Homework 13](https://sondzus.github.io/MathStat474/HW13.html) is due week 15, day 1 [Mon 12/1] but Wed 12/3 will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
+| **Week 15** | || 
+| tbd | tbd  |  hw: just review, final the following week.  | 
 
 
 
