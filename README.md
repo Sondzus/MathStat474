@@ -40,9 +40,9 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 12** | || 
 | Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12, 9.8. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 11/12]. | 
 | **Week 13** | || 
-| Introduction to hypothesis testing: single sample tests for population proportion: the z-test.  | 10.1, parts of 10.2, parts of 10.3, 10.8. |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 11/19]. | 
+| Introduction to hypothesis testing: single sample tests for population proportion: the z-test.  | 10.1, parts of 10.2, parts of 10.3, 10.8. (Ignore the "testing errors" part for this week!) |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 11/19]. | 
 | **Week 14** | || 
-| Single-sample tests for population mean: the z-test and the t-test  | 10.4. (We are still relying on 10.1, parts of 10.2, and parts of 10.3!) |  [Homework 13](https://sondzus.github.io/MathStat474/HW13.html) is due week 15, day 1 [Mon 12/1] but Wed 12/3 will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
+| Single-sample tests for population mean: the z-test and the t-test  | 10.4. (We are still relying on 10.1, parts of 10.2, and parts of 10.3! Ignore the "testing errors" part for this week!) |  [Homework 13](https://sondzus.github.io/MathStat474/HW13.html) is due week 15, day 1 [Mon 12/1] but Wed 12/3 will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
 | **Week 15** | || 
 | What can go wrong in a hypothesis test? Type I and Type II errors. Two-sample test for proportions and sample means. Wrapping up the interpretation of p-value and relating it all back to the sampling distributions we learned in probability. | The remainder of 10.2 and 10.3; also 10.5 and 10.9.  |  hw: just review, final the following week.  | 
 
