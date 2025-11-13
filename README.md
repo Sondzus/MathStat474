@@ -40,7 +40,7 @@ The section numbers in the tables below refer to the following course textbook: 
 | **Week 12** | || 
 | Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | 9.1-9.5, 9.10, 9.12, 9.8. (and 9.14 for overview.) |  [Homework 11](https://sondzus.github.io/MathStat474/HW11.html) is due week 13, day 2 [Wed 11/12]. | 
 | **Week 13** | || 
-| tbd | tbd |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 11/19]. | 
+| Introduction to hypothesis testing: single sample tests for population proportion: the z-test.  | 10.1, parts of 10.2, parts of 10.3, 10.8. |  [Homework 12](https://sondzus.github.io/MathStat474/HW12.html) is due week 14, day 2 [Wed 11/19]. | 
 | **Week 14** | || 
 | tbd  | tbd |  [Homework 13](https://sondzus.github.io/MathStat474/HW13.html) is due week 15, day 1 [Mon 12/1] but Wed 12/3 will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
 | **Week 15** | || 
@@ -77,6 +77,8 @@ Conditional probability: definition and computation. Independence events and 4 e
 * wk11, day2: Wrapping up last lecture's discussion with more examples. Intro to interval estimation. Confidence intervals for population mean. 
 * wk12, day1: "Guessing" confidence intervals for proportions. Why is sample size typically around 1100 in popular media polls? (The minimum sample size necessary to achieve a 3% margin of error for population proportion confidence intervals!) 
 * wk12, day2: One-sided confidence bounds for population mean. Two samples: estimating the difference between two means. (Confidence intervals, still.)
+* wk13, day1: Basic steps for hypothesis testing: what is a hypothesis? H_0 vs. H_1 setup and practice. What is evidence in data? Why we never "accept the null", only reject or fail to reject: an example with gender equity. 
+* wk13, day2: How do we weight the 'amount' of evidence in the data: different sample sizes but same percentage points - how to quantify? Back to the sampling distribution of the test statistic, and using this to compute the p-value. Difference between one-sided and two-sided alternative hypotheses. 
 
 ### HW formatting 
 
