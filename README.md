@@ -1,25 +1,32 @@
 # MathStat474
-Welcome to Math 474 @ IIT by Sonja Petrović. 
+Welcome to Math 474 @ IIT by Sonja Petrović. This course is being run in person, and the material we use and all assignments are posted on Canvas. This page serves as an archive for future references, and is updated weekly by your instructor. The most useful thing here is the weekly schedule of topics, which you may wish to keep up with. 
 
 In Spring 2026, we will be using a new book - ZyBook.  Please log into Canvas to find the book, and the first reading assignment due at end of week 1! 
-<!--The section numbers in the tables below refer to the following course textbook:  *Walpole, Meyers, Meyers, Ye:  Probability and Statistics for Engineers and Scientists*, 9th edition.
---> 
+
+> There are two steps: 1. Click on the fist homework reading assignment link in Canvas. (Do not go to the zyBooks website and create a new account!!) 2. Subscribe.
+
+The section numbers in the tables below refer to the book we are using: MATH 474: Probability and Statistics,  zyBook ISBN: 979-8-203-16191-8, by	Douglas C. Montgomery & George C. Runger. This is the online textbook linked through Illinois Tech bookstore. 
 
 ### Important dates
 
 * **Midterm** will take place in class on *date tbd*. 
-**Midterm exam topics:** everything up to and not including the intro to continuous random variables!  The midterm will be graded within one week, and so you will be able to see your grades by x/xx. But the physical exams may not be returned until x/xx. 
+**Midterm exam topics:**  tbd 
 
-* **Final exam** will take place on *date tbd*. The exam will be comprehensive, with 2/3 of the topics from after the midterm, and 1/3 before the midterm! 
+<!--everything up to and not including the intro to continuous random variables!  The midterm will be graded within one week, and so you will be able to see your grades by x/xx. But the physical exams may not be returned until x/xx. --> 
+
+* **Final exam** will take place on *date tbd*. 
+The exam will be comprehensive, with 2/3 of the topics from after the midterm, and 1/3 before the midterm! 
 
 ## Weekly schedule 
+
+A note on **Homework**: all assignments will be posted on Canvas. Linked here for your convenience. Please note, the table below only highlights HW exercises that count toward your HW grade in the class. The table does *not* include reading assignments and participation grade; for example, there is a reading homework assignment posted on Canvas, due Friday 1/16. You need to keep up to date with the course on Canvas. 
 
 | Topics | Reading| Homework | 
 |----| ----| ---| 
 | **Weeks 1 & 2** | || 
-|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|   [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 2, day 2 [Thu 1/??].  <br>     [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3, day 2 [Thu 1/??]. |
+|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Chapter 1 |      [Homework 1](https://sondzus.github.io/MathStat474/HW1.html)  is due week 2, day 2 [Thu 1/22].  <br>     [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3, day 2 [Thu 1/29]. |
 | **Week 2** | || 
-|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.3, 2.4. |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3  [Thu 1/??]. |
+|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability (time permitting). | Chapter 2 |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html)  is due week 3  [Thu 1/29]. |
 
 
 

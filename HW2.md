@@ -1,23 +1,36 @@
 # MathStat474 - HW 2 
 
-> Posted: Mon Aug 18. **Due: Wed Sep 3.** 
+> Posted: Mon Jan 12.  **Due: Thu 1/29.** 
 
 
 ## Problem 1
 
-Solve exercise 1.2 in the textbook
+Solve Exercise  2.9.14:  in the textbook. <!-- old HW: 1.2, 1.3, 1.9. in old book--> 
+The problem asks to: 
+
+* Find the sample mean and sample standard deviation of these 100-meter swim times.
+* Construct a dot diagram of the data.
+* Comment on anything unusual that you see.
 
 ## Problem 2.
 
-Solve exercise 1.3 in the textbook. 
+Solve Exercise  2.9.28. The problem asks to: 
+
+* Construct a frequency distribution and histogram.  
+
+(Note that problem 2.9.30 has an online solution for you to see, if you are stuck and need some ideas.)
 
 ## Problem 3. 
 
-Compute the range of the data, sample variance, and sample standard deviation in exercises 1.2. 
+Solve Exercise 2.9.39. The problem asks to: 
+
+* Calculate the sample mean, sample variance, and sample standard deviation.
+* Construct a box plot of the data.
 
 ## Problem 4.
 
-Solve exercise 1.9 in the textbook. 
+Solve Exercise 2.9.44. 
+The problem asks  to compare two boxplots from added data. 
 
 ## Problem 5. 
 
@@ -69,16 +82,6 @@ In the workplace, depression is a leading cause of absenteeism and loss of produ
 
 ### Related readings
 
-Please note, the textbook introduces **trimmed mean**, which we did not compute in the lecture as of Week 2. Please do study that concept from the textbook! 
+Please note, the textbook introduces **trimmed mean**, which we may not compute in the lecture as of Week 2. Please do study that concept from the textbook! 
 
 ---
-
----
-
-### Typing up work 
-
-If you want to type up your homework, please don't use Microsoft Word or the like. You can get great formatted documents in Markdown! Check out the links below. 
-
-Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
-Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
-
