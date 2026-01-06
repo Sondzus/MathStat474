@@ -36,6 +36,8 @@ In Spring 2026, we will be using a new book - ZyBook.  Please log into Canvas to
 Get familiar with professionally formatting documents using Markdown [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
 Want more information? Simple .md templates for PDF documents are available [here](https://sondzus.github.io/MathStat474/DocumentFormattingGuidelines.html). 
 
+<!--
 ##  Weekly
 
 ![](https://sondzus.github.io/MathStat474/OnePagers-Project%20timeline%20(1).jpg)
+--> 
