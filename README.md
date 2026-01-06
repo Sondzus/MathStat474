@@ -17,12 +17,9 @@ In Spring 2026, we will be using a new book - ZyBook.  Please log into Canvas to
 | Topics | Reading| Homework | 
 |----| ----| ---| 
 | **Weeks 1 & 2** | || 
-|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|  
-    [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 2, day 2 [Thu 1/??].  <br> 
-    [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3, day 2 [Thu 1/??]. |
+|  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Sections 1.1, 1.2, 1.5, parts of 1.6, 1.7. Section 2.1.|   [Homework 1](https://sondzus.github.io/MathStat474/HW1.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 2, day 2 [Thu 1/??].  <br>     [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3, day 2 [Thu 1/??]. |
 | **Week 2** | || 
-|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.3, 2.4. |  
-    [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3  [Thu 1/??]. |
+|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability. | Sections 1.3, 1.4, and 2.1, 2.2, 2.3, 2.4. |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) **WILL BE UPDATED ON 1ST DAY OF CLASSES** is due week 3  [Thu 1/??]. |
 
 
 
