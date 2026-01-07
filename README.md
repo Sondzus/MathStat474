@@ -9,7 +9,7 @@ The section numbers in the tables below refer to the book we are using: MATH 474
 
 ### Important dates
 
-* **Midterm** will take place in class on *date tbd*. 
+* **Midterm** will take place in class on *date tbd*, tentatively during week 8 of classes (March 10th). 
 **Midterm exam topics:**  tbd 
 
 <!--everything up to and not including the intro to continuous random variables!  The midterm will be graded within one week, and so you will be able to see your grades by x/xx. But the physical exams may not be returned until x/xx. --> 
