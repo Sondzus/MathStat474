@@ -26,11 +26,9 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Weeks 1 & 2** | || 
 |  **Introduction to basics**  <br> Research questions <br> Populations, samples, and data collection <br> Sample spaces and types of data <br> Summarizing quantitative data graphically | Chapter 1 |      [Homework 1](https://sondzus.github.io/MathStat474/HW1.html)  is due week 2, day 2 [Thu 1/22].  <br>     [Homework 2](https://sondzus.github.io/MathStat474/HW2.html) is due week 3, day 2 [Thu 1/29]. |
 | **Week 2** | || 
-|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability (time permitting). | Chapter 2 |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html)  is due week 3  [Thu 1/29]. |
+|  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability; relative frequencies. (We will also go over [these examples](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html) in class.) | Chapter 2. Start of Chapter 3. |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html)  is due week 3  [Thu 1/29]. |
 | **Week 3** | || 
-|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Chapter 3 - see reading assignment (Select sections). We will also go over [these examples](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html) in class.  | Homework 3 will be posted by end of day Thu 1/29.| 
-
-<!-- [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Wed 9/10 at 11:30pm].  --> 
+|  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Chapter 3 - see reading assignment (Select sections).  | [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Thu 2/5]. | 
 
 
 #### Main concepts / ideas: 
@@ -39,6 +37,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk1, day2: "*the big picture*" relating probability to inference; examples of studies and conclusions. Why is it important to quantify the uncertainty (e.g., "with 95% confidence we conclude that 65% of the US adult population favors X...") Shared (canvas discussion) a data set to try to see a pie chart or a bar chart. Begin to think about how data are usually summarized graphically: visualization of a categorical variable. 
 * wk2, day1: Histograms - visualizing distributions for quantitative variables. (Remember, we talked about boxplots for discrete variables in week 1.) Interpreting histograms. Measures of center and beginning to think about measures of spread (e.g. range). How do you summarize "data spread"? Think about the histograms we saw in week 2. How you do detect an outlier? Standard deviations as a measure of variability in the data. 
 * wk2, day2:  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability - quick overview.
+* wk3, day1: Building blocks for the theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events).  Finish  multiplication rule, discussed independent events. 
+* wk3, day2: Using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. ...  
 
 ### HW formatting 
 
