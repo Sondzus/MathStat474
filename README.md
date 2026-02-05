@@ -29,6 +29,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 |  Wrapping up the basics of EDA:  measures of spread in the data: range, quartiles, IQR, standard deviation, and what they all mean for data summaries and statistics.  Also we will go over the construction and interpretation of boxplots. <br> Introduction to probability; relative frequencies. (We will also go over [these examples](https://sondzus.github.io/MathStat474/LectureNotes4-1-Relative-Frequency--HANDOUT.html) in class.) | Chapter 2. Start of Chapter 3. |      [Homework 2](https://sondzus.github.io/MathStat474/HW2.html)  is due week 3  [Thu 1/29]. |
 | **Week 3** | || 
 |  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Chapter 3 - see reading assignment (Select sections).  | [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Thu 2/5]. | 
+| **Week 4** | ||
+|  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule.  | Chapter 3 - second reading assignment (up to, but not including, random variables). | Homework 4 will be posted thu 2/5 and due week 5, day 2 [Thu 2/12]. |
 
 
 #### Main concepts / ideas: 
@@ -39,6 +41,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk2, day2:  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. Formal introduction to probability: meaning, notation, likelihood, and computation using relative frequency of an event in a sample space. Empirical computation of probability - quick overview.
 * wk3, day1: Building blocks for the theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events).  Finish  multiplication rule, discussed independent events. 
 * wk3, day2: Using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. ...  
+* wk4, day 1: Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. discussed more on computation of conditional probabilities and started talking about the important parts of the Bayes rule. 
+* wk4, day 2: Derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). If you are interested, you may read the student paper on the [polygraph test here](https://www.stat.cmu.edu/tr/tr766/tr766.pdf), and the interview by Prof. Fienberg(https://www.nationalacademies.org/news/the-polygraph-and-lie-detection). 
 
 ### HW formatting 
 
