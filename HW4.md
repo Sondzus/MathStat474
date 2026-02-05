@@ -5,7 +5,7 @@ output:
 ---
 # MathStat474 - HW 4
 
-> Posted: Wed Sep 10. **Due: Wed Sep 17.** 
+> Posted: Thu Feb 5. **Due: Thu Feb 12.** 
 
 Notation: Please notice that our textbook uses the notation $A'$ for the complement of the event $A$. So when it writes $P(A')$, they mean $P(\mbox{not }A)$.
 
@@ -27,10 +27,6 @@ Which of the following is a correct representation of the given information in a
 
 ### Problem 2. 
 
-<!-- Complete the entire two-way probability table starting with the information displayed in the correct answer to the previous question. Your answer table should have all 9 enries populated. 
-
-### Problem 3.
---> 
 
 Researchers studied thousands of court cases. For each case, they recorded the jury's decision. In addition, they asked
 the judge in each case how he or she would have decided the same case if there were no jury. In 67% of the cases the jury
@@ -57,28 +53,38 @@ B & not B & Total &       &  \\ \hline
 
 ### Problem 3.
 
- Solve exercise **2.58** in the textbook. (Compute some probabilities when rolling a pair of dice.) 
+ Solve exercise **3.11.95** in the textbook. (Conditional probability, law of total probability.) 
+ 
+ A batch of 500 containers of frozen orange juice contains 5 that are defective. Two are selected, at random, without replacement, from the batch. Let $A$  and $B$  denote the events that the first and second containers selected are defective, respectively.
 
-A pair of fair dice is tossed. Find the probability of getting: 
-
-(a) a total of 8;
-(b) at most a total of 5.
+(a) Are $A$  and $B$  independent events?
+(b) If the sampling were done with replacement, would  $A$ and $B$  be independent?
 
 ### Problem 4. 
 
-Solve exercise **2.72** in the textbook. (Prove a certain equality of probabilities!) 
+Solve exercise **3.11.109** in the textbook. (Conditional probability, law of total probability, and Bayes.) 
 
-Prove that
+Customers are used to evaluate preliminary product designs. In the past, 95% of highly successful products received good reviews, 60%  of moderately successful products received good reviews, and 10%  of poor products received good reviews. In addition, 
+40% of products have been highly successful, 35%  have been moderately successful, and 25%  have been poor products.
 
-$$ P(A'\cap B′)=1+P(A\cap B)-P(A)-P(B). $$
+a) What is the probability that a product attains a good review?
+b) If a new design attains a good review, what is the probability that it will be a highly successful product?
+c) If a product does not attain a good review, what is the probability that it will be a highly successful product?
+
+
+ <!-- Prove that $$ P(A'\cap B′)=1+P(A\cap B)-P(A)-P(B). $$
+ --> 
+ 
 
 
 ### Problem 5.
 
-Solve exercise **2.74** in the textbook: 
+**[This is not a required problem. Doing it will earn you up to 5 points of extra credit.]**
 
-A class in advanced physics is composed of 10 juniors, 30 seniors, and 10 graduate students. The final grades show that 3 of the juniors, 10 of the seniors, and 5 of the graduate students received an A for the course. If a student is chosen at random from this class and is found to have earned an A, what is the probability that he or she is a senior?
+<!-- A class in advanced physics is composed of 10 juniors, 30 seniors, and 10 graduate students. The final grades show that 3 of the juniors, 10 of the seniors, and 5 of the graduate students received an A for the course. If a student is chosen at random from this class and is found to have earned an A, what is the probability that he or she is a senior?
+-->
 
+ Prove that $$ P(A'\cap B′)=1+P(A\cap B)-P(A)-P(B). $$
 
 ---
 

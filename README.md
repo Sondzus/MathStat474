@@ -30,7 +30,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 3** | || 
 |  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Chapter 3 - see reading assignment (Select sections).  | [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Thu 2/5]. | 
 | **Week 4** | ||
-|  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule.  | Chapter 3 - second reading assignment (up to, but not including, random variables). | Homework 4 will be posted thu 2/5 and due week 5, day 2 [Thu 2/12]. |
+|  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule.  | Chapter 3 - second reading assignment (up to, but not including, random variables). | [Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is  due week 5, day 2 [Thu 2/12]. |
 
 
 #### Main concepts / ideas: 
