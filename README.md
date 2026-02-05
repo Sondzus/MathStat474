@@ -42,7 +42,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk3, day1: Building blocks for the theoretical computations of probability: equally likely outcomes, sample spaces and events, and basic probability rules (complement rule, general addition rule, disjoint events).  Finish  multiplication rule, discussed independent events. 
 * wk3, day2: Using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. ...  
 * wk4, day 1: Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. discussed more on computation of conditional probabilities and started talking about the important parts of the Bayes rule. 
-* wk4, day 2: Derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). If you are interested, you may read the student paper on the [polygraph test here](https://www.stat.cmu.edu/tr/tr766/tr766.pdf), and the interview by Prof. Fienberg(https://www.nationalacademies.org/news/the-polygraph-and-lie-detection). 
+* wk4, day 2: Derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). If you are interested, you may read the student paper on the [polygraph test here](https://www.stat.cmu.edu/tr/tr766/tr766.pdf), and the interview by Prof. Fienberg [here](https://www.nationalacademies.org/news/the-polygraph-and-lie-detection). 
 
 ### HW formatting 
 
