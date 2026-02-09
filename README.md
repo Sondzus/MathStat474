@@ -31,6 +31,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 |  Introduction to probability: sample spaces and events, equally likely outcomes, and basic rules of probability. | Chapter 3 - see reading assignment (Select sections).  | [Homework 3](https://sondzus.github.io/MathStat474/HW3.html) is due week 4, day 2 [Thu 2/5]. | 
 | **Week 4** | ||
 |  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule.  | Chapter 3 - second reading assignment (up to, but not including, random variables). | [Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is  due week 5, day 2 [Thu 2/12]. |
+| **Week 5** | || 
+| Introduction to Random variables. Random variables: discrete random variables. Important discrete random variables: Binomial, multinomial, hypergeometric (we will see how many we cover this week; the rest, next week!) | Last section of chapter 3 and first few sections of chapter 4 - discrete random variables. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Thu 2/20]. |
 
 
 #### Main concepts / ideas: 
@@ -43,6 +45,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk3, day2: Using given probabilities for two categorical variables to construct a two-way probability table, including the marginal totals. ...  
 * wk4, day 1: Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. discussed more on computation of conditional probabilities and started talking about the important parts of the Bayes rule. 
 * wk4, day 2: Derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). If you are interested, you may read the student paper on the [polygraph test here](https://www.stat.cmu.edu/tr/tr766/tr766.pdf), and the interview by Prof. Fienberg [here](https://www.nationalacademies.org/news/the-polygraph-and-lie-detection). 
+* wk5, day 1: Introduction to random variables, discrete r.v.s, probability mass function, distribution of a random variable, means and variances of random variables. 
+
 
 ### HW formatting 
 
