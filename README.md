@@ -33,6 +33,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 |  The general multiplication rule; probability trees. The law of total probabilty and Bayes' rule.  | Chapter 3 - second reading assignment (up to, but not including, random variables). | [Homework 4](https://sondzus.github.io/MathStat474/HW4.html) is  due week 5, day 2 [Thu 2/12]. |
 | **Week 5** | || 
 | Introduction to Random variables. Random variables: discrete random variables. Important discrete random variables: Binomial, multinomial, hypergeometric (we will see how many we cover this week; the rest, next week!) | Last section of chapter 3 and first few sections of chapter 4 - discrete random variables. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Thu 2/20]. |
+| **Week 6** | || 
+| Important discrete random variables: Binomial, multinomial, hypergeometric. | Remainder of chapter 4 - discrete random variables. | [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Thu 2/27]. |
 
 
 #### Main concepts / ideas: 
@@ -46,6 +48,9 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk4, day 1: Conditional probability: definition and computation. Independence events and 4 equivalent ways to testing independence. discussed more on computation of conditional probabilities and started talking about the important parts of the Bayes rule. 
 * wk4, day 2: Derived the Bayes rule and talked more about the example of the lie detector (lies vs. spies in a company example!). If you are interested, you may read the student paper on the [polygraph test here](https://www.stat.cmu.edu/tr/tr766/tr766.pdf), and the interview by Prof. Fienberg [here](https://www.nationalacademies.org/news/the-polygraph-and-lie-detection). 
 * wk5, day 1: Introduction to random variables, discrete r.v.s, probability mass function, distribution of a random variable, means and variances of random variables. 
+* wk5, day 1:
+* wk6, day 1: binomial and start of hypergeometric
+* wk6, day 2: finish hypergeometric, cover Poisson, and discuss r.v. approximations. 
 
 
 ### HW formatting 

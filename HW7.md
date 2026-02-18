@@ -3,7 +3,7 @@ output:
   html_document: default
   pdf_document: default
 ---
-# MathStat474 - HW 7
+# MathStat474 - HW 7 ---- USED IN HW6 IN SPRING 2026
 
 > Posted Mon 6 Oct. **Due: Wed Oct 15.** 
 
@@ -30,14 +30,14 @@ Solve exercise **5.28** in the textbook:
 A manufacturer knows that on average 20% of the electric toasters produced require repairs within 1 year after they are sold. When 20 toasters are randomly selected, find appropriate numbers x and y such that: 
 
 (a) the probability that at least x of them will require repairs is less than 0.5;
-(b) the probability that at least y of them will not re- quire repairs is greater than 0.8.
+(b) the probability that at least y of them will not require repairs is greater than 0.8.
 
 
 ### Problem 4. 
 
 Solve exercise **5.36** in the textbook: 
 
-A manufacturing company uses an acceptance scheme on items from a production line before they are shipped. The plan is a two-stage one. Boxes of 25 items are readied for shipment, and a sample of 3 items is tested for defectives. If any defectives are found, the entire box is sent back for 100% screening. If no defec- tives are found, the box is shipped.
+A manufacturing company uses an acceptance scheme on items from a production line before they are shipped. The plan is a two-stage one. Boxes of 25 items are readied for shipment, and a sample of 3 items is tested for defectives. If any defectives are found, the entire box is sent back for 100% screening. If no defectives are found, the box is shipped.
 
 (a) What is the probability that a box containing 3 defectives will be shipped?
 (b) What is the probability that a box containing only 1 defective will be sent back for screening?

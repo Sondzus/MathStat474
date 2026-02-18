@@ -5,10 +5,10 @@ output:
 ---
 # MathStat474 - HW 6
 
-> Posted by Wed Sep 10. **Due: Wed Oct 1.** 
+> Posted Wed 18 Feb. **Due: Thu Feb 26.** 
 
 
-
+<!-- 
 ### Problem 1. 
 
 (Applying the concepts of a random variable and its mean.)
@@ -26,8 +26,6 @@ Using the information from the previous two questions, what is the expected gain
 
 ### Problem 2. 
 
-Solve exercise **2.106** in the textbook: 
-
 The probabilities that a service station will pump gas into 0, 1, 2, 3, 4, or 5 or more cars during a certain 
 30-minute period are 0.03, 0.18, 0.24, 0.28, 0.10, and 0.17, respectively. 
 
@@ -36,7 +34,9 @@ Find the probability that in this 30-minute period:
 (a) more than 2 cars receive gas; 
 (b) at most 4 cars receive gas; 
 (c) 4 or more cars receive gas.
+--> 
 
+<!-- 
 ### Problem 3. 
 
 Solve exercise **2.108** in the textbook: 
@@ -45,9 +45,9 @@ If the probability is 0.1 that a person will make a mistake on his or her state 
 
 (a) four totally unrelated persons each make a mistake;
 (b) Mr. Jones and Ms. Clark both make mistakes, and Mr. Roberts and Ms. Williams do not make a mistake.
+--> 
 
-
-### Problem 4. 
+### Problem 1. 
 
 Suppose that you work for an insurance company and you sell a $100,000 fire insurance policy at an annual premium of $1,350. Experience has shown that:
 
@@ -64,11 +64,56 @@ a) Find the probability distribution of X. In other words, list the possible val
 b) What is the mean (expected) annual gain for a policy of this type? In other words, what is the mean of X?
 
 c)  The insurance company gets information about gas leakage in several houses that use the same gas provider that your customer does. In light of this new information, the probabilities of total loss and 50% damage (that were originally .002 and .008, respectively) are tripled (to .006 for total loss and .024 for 50% damage). Obviously, this change in the probabilities should be reflected in the annual premium, to account for the added risk that the insurance company is taking. What should be the new annual premium (instead of $1,350), if the company wants to keep its expected gain of $750?
+
  **Guidance**: Let the new premium (instead of 1,350) be denoted by N, for new. Set up the new probability distribution of X using the updated probabilities, and using N instead of 1,350. (The answer to question 1 will help.)
 The question now is: What should the value of N (the new premium) be, if we want the mean of X to remain 750?
 Set up an equation with N as unknown, and solve for N.
 
+### Problem 2. 
 
+A manufacturing company uses an acceptance scheme on items from a production line before they are shipped. The plan is a two-stage one. Boxes of 25 items are readied for shipment, and a sample of 3 items is tested for defectives. If any defectives are found, the entire box is sent back for 100% screening. If no defectives are found, the box is shipped.
+
+(a) What is the probability that a box containing 3 defectives will be shipped?
+(b) What is the probability that a box containing only 1 defective will be sent back for screening?
+
+
+### Problem 3. 
+
+Find the probability that a person flipping a coin gets
+
+(a) the third head on the seventh flip; 
+(b) the first head on the fourth flip.
+
+
+### Problem 4. 
+
+Three people toss a fair coin and the odd one pays for coffee. If the coins all turn up the same, they are tossed again. Find the probability that fewer than 4 tosses are needed.
+
+### Problem 5. 
+
+The manufacturer of a tricycle for children has received complaints about defective brakes in the product. According to the design of the product and considerable preliminary testing, it had been determined that the probability of the kind of defect in the complaint was 1 in 10,000 (i.e., 0.0001). 
+
+After a thorough investigation of the complaints, it was determined that during a certain period of time, 200 products were randomly chosen from production and 5 had defective brakes.
+
+(a) Comment on the “1 in 10,000” claim by the manufacturer. Use a probabilistic argument. Use the binomial distribution for your calculations.
+
+(b) Repeat part (a) using the Poisson approximation. 
+
+### Problem 6. 
+
+Solve Exercise **4.10.84**: 
+
+Suppose that lesions are present at 5 sites among 50 in a patient. A biopsy selects 8 sites randomly (without replacement).
+
+(a)
+What is the probability that lesions are present in at least one selected site?
+
+
+(b) What is the probability that lesions are present in two or more selected sites?
+
+
+(c) 
+Instead of eight sites, what is the minimum number of sites that need to be selected to meet the following objective? The probability that at least one site has lesions present is greater than or equal to 0.9.
 
 
 
