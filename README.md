@@ -35,6 +35,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | Introduction to Random variables. Random variables: discrete random variables. Important discrete random variables: Binomial, multinomial, hypergeometric (we will see how many we cover this week; the rest, next week!) | Last section of chapter 3 and first few sections of chapter 4 - discrete random variables. | [Homework 5](https://sondzus.github.io/MathStat474/HW5.html) is due week 6, day 2 [Thu 2/20]. |
 | **Week 6** | || 
 | Important discrete random variables: Binomial, multinomial, hypergeometric. | Remainder of chapter 4 - discrete random variables. | [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Thu 2/27]. |
+| **Week 7** | || 
+|  Intro to continuous random variables: pdf, cdf, mean, varaince; examples: normal, standard normal, and applications. The concept of mathematical expectations, which is tied to functions of random variables.   | Finish up the reading of Chapter 5: continuous random variables.  |  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 8, day 2 [Thu 3/5].  | 
 
 
 #### Main concepts / ideas: 
@@ -51,7 +53,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk5, day 1:
 * wk6, day 1: binomial and start of hypergeometric
 * wk6, day 2: finish hypergeometric, cover Poisson, and discuss r.v. approximations. 
-
+* wk7, day 1: intro to continuous random variables. what is the meaning of a probability density function? interpretation, contrast of PDF vs. PMF. * wk7, day 2: cumulative distribution function, and some more examples of continous random variables. mean and variance. 
 
 ### HW formatting 
 
