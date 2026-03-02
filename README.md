@@ -37,6 +37,11 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | Important discrete random variables: Binomial, multinomial, hypergeometric. | Remainder of chapter 4 - discrete random variables. | [Homework 6](https://sondzus.github.io/MathStat474/HW6.html) is due week 7, day 2 [Thu 2/27]. |
 | **Week 7** | || 
 |  Intro to continuous random variables: pdf, cdf, mean, varaince; examples: normal, standard normal, and applications. The concept of mathematical expectations, which is tied to functions of random variables.   | Finish up the reading of Chapter 5: continuous random variables.  |  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 8, day 2 [Thu 3/5].  | 
+| **Week 8** | || 
+|   Applications of normal distribution; the uniform distribution; review of mean and variance of random variables. Normal approximation to Binomial and Poisson. | Finish reading chapter 5.   |   There will be *no* homework due during week 9, because we have a midterm exam! | 
+| **Week 9** | || 
+|   TUESDAY: midterm exam! <br> Thursday: Remaining fundamental concepts on random variables: joint distributions, marginals, conditionals.| tbd |  Homework tbd.  | 
+
 
 
 #### Main concepts / ideas: 
@@ -53,7 +58,9 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk5, day 1:
 * wk6, day 1: binomial and start of hypergeometric
 * wk6, day 2: finish hypergeometric, cover Poisson, and discuss r.v. approximations. 
-* wk7, day 1: intro to continuous random variables. what is the meaning of a probability density function? interpretation, contrast of PDF vs. PMF. * wk7, day 2: cumulative distribution function, and some more examples of continous random variables. mean and variance. 
+* wk7, day 1: intro to continuous random variables. what is the meaning of a probability density function? interpretation, contrast of PDF vs. PMF. * wk7, day 2: cumulative distribution function, and some more examples of continuous random variables. mean and variance. 
+* wk8, day 1: Continuous random variables: recap and summary. Normal approximation to binomial and Poisson. 
+* wk8, day 2: 
 
 ### HW formatting 
 
