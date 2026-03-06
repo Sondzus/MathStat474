@@ -38,7 +38,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 7** | || 
 |  Intro to continuous random variables: pdf, cdf, mean, varaince; examples: normal, standard normal, and applications. The concept of mathematical expectations, which is tied to functions of random variables.   | Finish up the reading of Chapter 5: continuous random variables.  |  [Homework 7](https://sondzus.github.io/MathStat474/HW7.html)   is due week 8, day 2 [Thu 3/5].  | 
 | **Week 8** | || 
-|   Applications of normal distribution; the uniform distribution; review of mean and variance of random variables. Normal approximation to Binomial and Poisson. | Finish reading chapter 5.   |   There will be *no* homework due during week 9, because we have a midterm exam! | 
+|   Applications of normal distribution; the uniform distribution; review of mean and variance of random variables. Normal approximation to Binomial and Poisson. Start of chapter 6: fundamental concepts on random variables: joint distributions. | Finish reading chapter 5.   |   There will be *no* homework due during week 9, because we have a midterm exam! | 
 | **Week 9** | || 
 |   TUESDAY: midterm exam! <br> Thursday: Remaining fundamental concepts on random variables: joint distributions, marginals, conditionals.| tbd |  Homework tbd.  | 
 
@@ -60,7 +60,9 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk6, day 2: finish hypergeometric, cover Poisson, and discuss r.v. approximations. 
 * wk7, day 1: intro to continuous random variables. what is the meaning of a probability density function? interpretation, contrast of PDF vs. PMF. * wk7, day 2: cumulative distribution function, and some more examples of continuous random variables. mean and variance. 
 * wk8, day 1: Continuous random variables: recap and summary. Normal approximation to binomial and Poisson. 
-* wk8, day 2: 
+* wk8, day 2: Start of chapter 6: fundamental concepts on random variables: joint distributions. Midterm exam topics review. 
+* wk9, day 1: exam.
+* wk9, day 2: Marginals & conditionals from joint distributions. Continuing in chapter 6.
 
 ### HW formatting 
 
