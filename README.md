@@ -41,7 +41,8 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 |   Applications of normal distribution; the uniform distribution; review of mean and variance of random variables. Normal approximation to Binomial and Poisson. Start of chapter 6: fundamental concepts on random variables: joint distributions. | Finish reading chapter 5.   |   There will be *no* homework due during week 9, because we have a midterm exam! | 
 | **Week 9** | || 
 |   TUESDAY: midterm exam! <br> Thursday: Remaining fundamental concepts on random variables: joint distributions, marginals, conditionals.| tbd |  Homework tbd.  | 
-
+| **Week 10** | || 
+|   Joint distributions of two random variables, using both discrete and continuous to compute examples, marginals, conditionals, conditional expectation. | Chapter 6 in the book - all but functions of random variables. | [Homework 8](https://sondzus.github.io/MathStat474/HW8.html)   is due week 10, day 2 [Thu 4/2].  | 
 
 
 #### Main concepts / ideas: 
@@ -62,7 +63,10 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk8, day 1: Continuous random variables: recap and summary. Normal approximation to binomial and Poisson. 
 * wk8, day 2: Start of chapter 6: fundamental concepts on random variables: joint distributions. Midterm exam topics review. 
 * wk9, day 1: exam.
-* wk9, day 2: Marginals & conditionals from joint distributions. Continuing in chapter 6.
+* wk9, day 2: We went over the exam, solutions, and strategies going forward. ***spring break*** 
+* wk10, day 1: Marginals & conditionals from joint distributions. Chapter 6, first 2 sections.
+* wk10, day 2: Conditional probabilities and independence, chapter 6 next two sections.
+* wk11, days 1 & 2: we will finish all other sections in chapter 6. day 1 is about some standard joint distributions; and day 2 is about functions of random variables. Think about how this is related to the way we "moved around" the histogram by adding constants and multiplying by constants. 
 
 ### HW formatting 
 
