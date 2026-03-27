@@ -40,7 +40,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 8** | || 
 |   Applications of normal distribution; the uniform distribution; review of mean and variance of random variables. Normal approximation to Binomial and Poisson. Start of chapter 6: fundamental concepts on random variables: joint distributions. | Finish reading chapter 5.   |   There will be *no* homework due during week 9, because we have a midterm exam! | 
 | **Week 9** | || 
-|   TUESDAY: midterm exam! <br> Thursday: Remaining fundamental concepts on random variables: joint distributions, marginals, conditionals.| tbd |  Homework tbd.  | 
+|   TUESDAY: midterm exam! <br> Thursday: Thursday: discussion of midterm exam and strategies going forward.| tbd |  Homework tbd.  | 
 | **Week 10** | || 
 |   Joint distributions of two random variables, using both discrete and continuous to compute examples, marginals, conditionals, conditional expectation. | Chapter 6 in the book - all but functions of random variables. | [Homework 8](https://sondzus.github.io/MathStat474/HW8.html)   is due week 10, day 2 [Thu 4/2].  | 
 
