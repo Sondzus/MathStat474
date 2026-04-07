@@ -9,12 +9,12 @@ The section numbers in the tables below refer to the book we are using: MATH 474
 
 ### Important dates
 
-* **Midterm** will take place in class on *date tbd*, tentatively during week 8 of classes (March 10th). 
-**Midterm exam topics:**  tbd 
+* **Midterm** will take place in class on Tuesday of week 9. 
+**Midterm exam topics:**  all including what was on the homework submitted up until week 8. 
 
 <!--everything up to and not including the intro to continuous random variables!  The midterm will be graded within one week, and so you will be able to see your grades by x/xx. But the physical exams may not be returned until x/xx. --> 
 
-* **Final exam** will take place on *date tbd*. 
+* **Final exam** will take place on *Monday morning of finals week!*
 The exam will be comprehensive, with 2/3 of the topics from after the midterm, and 1/3 before the midterm! 
 
 ## Weekly schedule 
@@ -44,9 +44,17 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 10** | || 
 |   Joint distributions of two random variables, using both discrete and continuous to compute examples, marginals, conditionals, conditional expectation. Statistical mathematical independence | Chapter 6 in the book - all but functions of random variables. | [Homework 8](https://sondzus.github.io/MathStat474/HW8.html)   is due week 11, day 2 [Thu 4/2].  | 
 | **Week 11** | || 
-|  Wrapping up probability basics: Multinomial (and hypergeometric) distributions. <br> Cool stuff: starting statistical inference! Introduction to inference & random sampling. Sampling, statistics, and introduction to sampling distributions. Before we study sampling distributions, we need properties of functions of random variables!  | Chapter 6 - functions of random variables. Starting section 7.1. | Homework 9(Homework tbd (due next week Thu)) |
+|  Wrapping up probability basics: Multinomial (and hypergeometric) distributions. <br> Cool stuff: starting statistical inference! Introduction to inference & random sampling. Sampling, statistics, and introduction to sampling distributions. Before we study sampling distributions, we need properties of functions of random variables!  | Chapter 6 - functions of random variables. Starting section 7.1. |  [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) due week 13, day 2 [Thu 4/16] |
 | **Week 12** | || 
-| Sampling, statistics, and sampling distributions applied to statistical inference: sample proportion, sample mean, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion. Sampling distributions and central limit theorem. | Chapter 7. |  Homework tbd (due next week Thu). | 
+| Sampling, statistics, and sampling distributions applied to statistical inference: sample proportion, sample mean, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion. Sampling distributions and central limit theorem. | Chapter 7, section 7.2 and 7.3 Starting chapter 8. | [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 13, day 2 [Thu 4/16]  | 
+| **Week 13** | || 
+| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | chapter 8 sections tbd. |  homework 10 is due week 14, day 2 [Thu 4/23] | 
+| **Week 14** | || 
+| Tentative: Single-sample tests for population mean: the z-test and the t-test  | chapters 8&9 . |  [Homework 11] is due week 15, day 1 [tue ] but Wed  will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
+| **Week 15** | || 
+| TENTATIVE: What can go wrong in a hypothesis test? Type I and Type II errors. Two-sample test for proportions and sample means. Wrapping up the interpretation of p-value and relating it all back to the sampling distributions we learned in probability. | chapter 9  |  hw: just review, final the following week Monday!  | 
+
+
 
 #### Main concepts / ideas: 
 
@@ -72,6 +80,16 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 * wk11, days 1 & 2: we will finish all other sections in chapter 6. day 1 is about some standard joint distributions; and day 2 is about functions of random variables. Think about how this is related to the way we "moved around" the histogram by adding constants and multiplying by constants. 
 * wk12, day 1: Examples of common joint distributions (multinomial). Intro to statistics: parameters, estimators, and how does randomness enter the picture!
 * wk12, day 2: actually we didn't finish functions of random variables last week, so we will do that today. 
+* wk13, day 1: Central limit theorem as the sampling distribution of the sample mean. What it means for an estimator to be unbiased. General point estimation concepts. 
+* wk13, day 2: 
+
+#### Tentative topics until end of semester (weeks 13-14-15-16) 
+* Wrapping up last lecture's discussion with more examples. Intro to interval estimation. Confidence intervals for population mean. 
+* "Guessing" confidence intervals for proportions. Why is sample size typically around 1100 in popular media polls? (The minimum sample size necessary to achieve a 3% margin of error for population proportion confidence intervals!) 
+* One-sided confidence bounds for population mean. Two samples: estimating the difference between two means. (Confidence intervals, still.)
+*  Basic steps for hypothesis testing: what is a hypothesis? H_0 vs. H_1 setup and practice. What is evidence in data? Why we never "accept the null", only reject or fail to reject: an example with gender equity. 
+* How do we weight the 'amount' of evidence in the data: different sample sizes but same percentage points - how to quantify? Back to the sampling distribution of the test statistic, and using this to compute the p-value. Difference between one-sided and two-sided alternative hypotheses. 
+
 
 ### HW formatting 
 
