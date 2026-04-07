@@ -48,7 +48,7 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 12** | || 
 | Sampling, statistics, and sampling distributions applied to statistical inference: sample proportion, sample mean, sample variance as *estimators* for the corresponding population parameters. What does it mean for an estimator to be unbiased. Properties of sample mean and proportion. Sampling distributions and central limit theorem. | Chapter 7, section 7.2 and 7.3 Starting chapter 8. | [Homework 9](https://sondzus.github.io/MathStat474/HW9.html) is due week 13, day 2 [Thu 4/16]  | 
 | **Week 13** | || 
-| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | chapter 8 sections tbd. |  homework 10 is due week 14, day 2 [Thu 4/23] | 
+| Confidence intervals for mean and proportion. Meaning of confidence interval and interpretation. What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | chapter 8 sections tbd. |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 14, day 2 [Thu 4/23] | 
 | **Week 14** | || 
 | Tentative: Single-sample tests for population mean: the z-test and the t-test  | chapters 8&9 . |  [Homework 11] is due week 15, day 1 [tue ] but Wed  will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
 | **Week 15** | || 

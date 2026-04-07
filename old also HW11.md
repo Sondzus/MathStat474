@@ -9,7 +9,7 @@ output:
 
 Remember to always explain your answers. 
 
-### Problem 1. [this is about conficendce intervals and margin of error]
+### Problem 1. [this is about confidence intervals and margin of error]
 
 * What sample size of U.S. adults do you need, if you would like to estimate the proportion of U.S. adults who are "pro-choice" with a 2.5% margin of error (at the 95% level)?
 * Your answer to the above question indicates that if you take a sample of that size, the sample proportion of adults who are pro-choice is (select one):
