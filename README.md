@@ -50,9 +50,9 @@ A note on **Homework**: all assignments will be posted on Canvas. Linked here fo
 | **Week 13** | || 
 |What to do when population variance is unknown. The common form of normal confidence interval: estimator plus/minus margin of error, computed using the estimator's variance! | chapter 8, sections: 8.2, 8.3, 8.4, 8.5. |  [Homework 10](https://sondzus.github.io/MathStat474/HW10.html) is due week 14, day 2 [Thu 4/23] | 
 | **Week 14** | || 
-| Tentative: Single-sample tests for population mean: the z-test and the t-test  | chapters 8&9 . |  [Homework 11] is due week 15, day 1 [tue ] but Wed  will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
+| Single-sample tests for population mean: the z-test and the t-test. What can go wrong in a hypothesis test? Type I and Type II errors. How to compute the p-value. The meaning of hypothesis testing. | chapter 9: 9.1, 9.2, 9.5, 9.6. |  [Homework 11]https://sondzus.github.io/MathStat474/HW11.html) is due week 15, day 1 [Tue],  but Thu  will *not* be considered late! Here is the [data in excel format](cell_phones.xls) and [data for R](cell_phones.Rdata)| 
 | **Week 15** | || 
-| TENTATIVE: What can go wrong in a hypothesis test? Type I and Type II errors. Two-sample test for proportions and sample means. Wrapping up the interpretation of p-value and relating it all back to the sampling distributions we learned in probability. | chapter 9  |  hw: just review, final the following week Monday!  | 
+|  Two-sample test for proportions and sample means. Wrapping up the interpretation of p-value and relating it all back to the sampling distributions we learned in probability. | chapter 9  |  HW: just review, final the following week Monday!  | 
 
 
 
